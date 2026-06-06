@@ -62,36 +62,9 @@ Aspiring **Java FullStack Developer**
   <a href="https://www.netlify.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" alt="Netlify" style="margin: 4px;" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="48" alt="VS Code" style="margin: 4px;" /></a>
 </p>
-  
 
-## 💻✨ GitHub Stats & Activity
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KATHIRAVANN8&show_icons=true&theme=radical&border_radius=12&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=KATHIRAVANN8&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
 
----
-
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KATHIRAVANN8&layout=compact&langs_count=8&theme=tokyonight&hide=html)
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=KATHIRAVANN8&theme=matrix&margin-w=10&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
----
 
 ### 🐍 GitHub Contribution Snake Animation
 
