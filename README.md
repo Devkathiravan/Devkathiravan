@@ -1,72 +1,71 @@
-# ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&size=24&weight=700&width=500&lines=Hi%2C+I'm+Kathiravan!👋 )
 
-Aspiring **Java FullStack Developer** 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=220&section=header&text=Kathiravan%20P&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer&descAlignY=60" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KATHIRAVANN8&color=green)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Clean+Code+%E2%80%A2+Scalable+Systems;Always+Learning+New+Things" />
+</p>
+
+
+<p align="center"><a href="mailto:kathiravan62003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<a href="https://www.linkedin.com/in/kathiravann1682"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://kathiravan-devfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a></p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🌱 Exploring `Spring Security` for secure API development.  
-- 🔧 Strongly focused on `Java Backend Development` — Spring Boot & MySQL. 
-- 🎨 Love building sleek UIs using `React + Tailwind CSS`.  
-- 🤝 Open-source contributor & tech enthusiast.  
-- 🧩 Fun fact: I treat every bug like a puzzle — *fix, learn, grow*.
+```yaml
+name: Kathiravan P
+role: Full-Stack Developer
 
-### 📫 Reach Me At
-[![Email](https://img.icons8.com/fluency/48/gmail.png)](https://mail.google.com/mail/?view=cm&to=kathiravan62003@gmail.com)
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/kathiravann1682)
-[![Portfolio](https://img.icons8.com/fluency/48/domain.png)](https://kathiravan-devfolio.netlify.app/)
+stack:
+  - Java / Spring Boot / React.js
+  - TypeScript / MySQL / REST APIs
+  - HTML5 / CSS3 / Tailwind CSS
 
+focus: Building scalable and user-friendly web applications
 
-## 🚀 Technologies & Tools  
+philosophy: "Clean code over clever code — always."
+```
+---
 
-### **Frontend:**  
-**HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React**, **Redux**, **Tailwind CSS**, **Bootstrap**, **SASS**, **GSAP**, **Vite**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="48" alt="HTML5" style="margin: 4px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="48" alt="CSS3" style="margin: 4px;" /></a>
-  <a href="https://www.javascript.com/"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="48" alt="JavaScript" style="margin: 4px;" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="48" alt="TypeScript" style="margin: 4px;" /></a>
-  <a href="https://reactjs.org/"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="48" alt="React.js" style="margin: 4px;" /></a>
-  <a href="https://redux.js.org/"><img src="https://icon.icepanel.io/Technology/svg/Redux.svg" width="48" alt="Redux" style="margin: 4px;" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="48" alt="Tailwind CSS" style="margin: 4px;" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width="48" alt="Bootstrap" style="margin: 4px;" /></a>
-  <a href="https://sass-lang.com/"><img src="https://icon.icepanel.io/Technology/svg/Sass.svg" width="48" alt="SASS" style="margin: 4px;" /></a>
-  <a href="https://gsap.com/"><img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="48" alt="GSAP" style="margin: 4px;" /></a>
-  <a href="https://vitejs.dev/"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="48" alt="Vite.js" style="margin: 4px;" /></a>
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,ts,html,css,tailwind,bootstrap,mysql,firebase,git,github,postman,vscode,idea&perline=8" />
 </p>
 
+---
 
-### **Backend:**  
-**Java**, **Spring Boot**, **Hibernate**, **RESTful API**, **MySQL**, **Firebase**
-<p align="left">
-  <a href="https://www.java.com/"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="48" alt="Java" style="margin: 4px;" /></a>
-  <a href="https://spring.io/"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="48" alt="Spring Boot" style="margin: 4px;" /></a>
-  <a href="https://hibernate.org/"><img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-20.jpg" width="48" alt="Hibernate" style="margin: 4px;" /></a>
-  <a href="https://restfulapi.net/"><img src="https://img.icons8.com/nolan/50/api-settings.png" width="48" alt="REST API" style="margin: 4px;" /></a>
-  <a href="https://www.mysql.com/"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="48" alt="MySQL" style="margin: 4px;" /></a>
-  <a href="https://firebase.google.com/"><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="48" alt="Firebase" style="margin: 4px;" /></a>
-</p>
-  
+## 🚀 Featured Projects
 
-### **Tools:**  
-**Webpack**, **Babel**, **Postman**, **Jira**, **Jenkins**, **Docker**, **Swagger**, **Netlify**, **VS Code**
-<p align="left">
-  <a href="https://webpack.js.org/"><img src="https://img.icons8.com/color/48/webpack.png" width="48" alt="Webpack" style="margin: 4px;" /></a>
-  <a href="https://babeljs.io/"><img src="https://icon.icepanel.io/Technology/svg/Babel.svg" width="48" alt="Babel" style="margin: 4px;" /></a>
-  <a href="https://www.postman.com/"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="48" alt="Postman" style="margin: 4px;" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="48" alt="Jira" style="margin: 4px;" /></a>
-  <a href="https://www.jenkins.io/"><img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="48" alt="Jenkins" style="margin: 4px;" /></a>
-  <a href="https://www.docker.com/"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="48" alt="Docker" style="margin: 4px;" /></a>
-  <a href="https://swagger.io/"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" width="48" alt="Swagger" style="margin: 4px;" /></a>
-  <a href="https://www.netlify.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" alt="Netlify" style="margin: 4px;" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="48" alt="VS Code" style="margin: 4px;" /></a>
+| Project | Description |
+|----------|------------|
+| 🤖 AI Resume Builder | AI-powered resume generation using React, Spring Boot & Gemini API |
+| 📝 Online Examination System | Secure exam platform with Spring Security & MySQL |
+| 🔮 Astrology Appointment Booking | Full-stack booking system with authentication and scheduling |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devkathiravan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devkathiravan&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+## 💻 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkathiravan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🐍 GitHub Contribution Snake Animation
+---
+
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source
@@ -80,12 +79,18 @@ Aspiring **Java FullStack Developer**
   <img
     alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    style="max-width: 100%;"
   />
 </picture>
 
+---
 
-### 🎯 Developer Mindset
-> **“Consistency is more important than perfection. Just keep building.”** 🚀
+---
 
+## 🌱 Growth Mindset
+
+> **"Build. Break. Learn. Repeat."** ⚡
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" />
+</p>
 
